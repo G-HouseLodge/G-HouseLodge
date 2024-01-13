@@ -243,7 +243,7 @@ nav {
   gap: 20px;
   border: none;
   border-radius: 50px;
-  background: linear-gradient(270deg,#b98920,#f6ac0f);
+  background: linear-gradient(270deg,#f6ac0f,#f6ac0f);
   cursor: pointer;
 }
 
