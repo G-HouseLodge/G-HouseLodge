@@ -220,7 +220,7 @@ nav {
   border: none;
   outline: none;
   padding-left: 25px;
-  font-weight: 500;
+  font-weight: 800;
   color: #0f172a;
   border-radius: 50px;
 }
@@ -239,6 +239,7 @@ nav {
   display: flex;
   align-items: center;
   padding: 30px 30 px;
+  font-weight: 800;
   color: #0f1a2c;
   gap: 20px;
   border: none;
